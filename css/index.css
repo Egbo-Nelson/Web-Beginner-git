@@ -1,0 +1,66 @@
+
+
+
+#jet{
+    background-color: orange;
+    height: 280px;
+    width: 100%;
+    text-transform: capitalize;
+
+}
+#img{
+    width: 30%;
+    height: 200px;
+    margin: 10px;
+    border-radius:80px ;
+    border-color: #fefefe;
+    clip: auto;
+
+}
+#fet{
+    display: flex;
+    list-style-type: none;
+
+}
+ul >li{
+    margin: 4px;
+    margin-right: 25%;
+    text-align: center;
+}
+
+#pen{
+    background-color: aqua;
+    height: 10vh;
+    border-radius: 15pt;
+    font-family: cursive;
+}
+#gen{
+    background-color: aqua;
+    height: 10vh;
+    border-radius: 15pt;
+    font-family: cursive;
+}
+#van{
+    background-color: brown;
+    height: 10vh;
+    border-radius: 15pt;
+    font-family: cursive;
+
+}
+.jen{
+    background-image: -moz-element(0,0,0,7);
+    height: 800px;
+    width: 100%;
+
+}
+#yet{
+    margin-left: 25%;
+    margin-top: 100px;
+    margin-left: 25%;
+}
+.net{
+    text-align: end;
+    margin-right: 100px;
+    text-align: right;
+    
+}
